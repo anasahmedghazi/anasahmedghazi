@@ -29,7 +29,7 @@
 - System Design
 - Robotics & Embedded Systems
 
-🌱 Currently improving my skills in:
+🌱 Currently learning:
 - Advanced Machine Learning
 - Data Structures & Algorithms
 - Software Architecture
@@ -43,55 +43,43 @@
 
 ## 👨‍💻 Programming Languages
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,javascript" />
-
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ## 🤖 Machine Learning & AI
 
-<p align="center">
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-</p>
-
-- Machine Learning Algorithms
-- Data Analysis & Visualization
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
+- Supervised Learning
 - Model Evaluation
-- Scikit-Learn
+- Classification Algorithms
 
 
 ## 🌐 Web Development
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-</p>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## 🗄️ Database
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</p>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 🔧 Tools & Technologies
+## 🔧 Tools
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,matlab,arduino" />
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
 
 ---
@@ -103,18 +91,21 @@
 ### National Telecommunication Institute (NTI)
 
 - Completed an intensive Machine Learning training focused on practical AI applications.
-- Worked with Python and Scikit-Learn for building ML solutions.
+- Worked with Python and Scikit-Learn to build ML solutions.
 - Applied:
+  - Data Cleaning
   - Data Preprocessing
   - Exploratory Data Analysis
   - Feature Engineering
-  - Model Training & Evaluation
+  - Model Evaluation
+
 - Implemented Machine Learning algorithms:
   - Logistic Regression
   - KNN
   - SVM
   - Random Forest
-- Built an end-to-end **Stroke Prediction System**.
+
+- Built an end-to-end **Stroke Prediction Using Machine Learning** project.
 - Developed a GUI application for real-time prediction.
 
 
@@ -124,45 +115,80 @@
 ### ALX
 
 - Studied Artificial Intelligence fundamentals and real-world applications.
-- Learned how AI can solve practical problems.
-- Improved technical thinking and understanding of emerging AI technologies.
+- Learned AI concepts and their practical usage.
+- Improved problem-solving skills and understanding of AI-driven solutions.
 
 
 ---
 
-## 🌍 OGTa/e Team Leader  
-### AIESEC in MUST
+# 🌍 AIESEC in MUST — Leadership Journey
 
-- Started my journey as an **IGT (Incoming Global Talent) member**.
-- Progressed to the **B2C (Business to Customer) team**.
-- Worked on connecting students with international internship opportunities.
-- Became an **OGTa/e Team Leader**, leading and supporting team members.
-- Managed team activities and followed performance progress.
-- Developed skills in:
-  - Leadership
-  - Team Management
+
+## IGT (Incoming Global Talent) Member
+
+- Started my AIESEC journey through the IGT team.
+- Worked with global internship opportunities.
+- Developed:
+  - Communication Skills
+  - Networking
+  - Candidate Management
+  - Professional Follow-up
+
+
+## B2C (Business To Customer) Member
+
+- Worked on connecting students with AIESEC opportunities.
+- Improved:
+  - Customer Relationship Management
   - Communication
   - Negotiation
-  - Recruitment
-  - Customer Relations
+  - Marketing Basics
+
+
+## Winter Peak
+
+- Learned how AIESEC operations work.
+- Developed:
+  - Teamwork
+  - Goal Setting
+  - Time Management
+  - Performance Tracking
+
+
+## Summer Peak
+
+- Improved customer engagement skills.
+- Learned how to manage opportunities and follow the customer journey.
+
+
+## Recruitment Peak
+
+- Gained experience in:
+  - Interviewing
+  - Member Selection
+  - Evaluation
+  - Communication
+
+
+## Leadership Peak
+
+- Developed leadership and management skills.
+- Learned:
+  - Task Delegation
+  - Team Motivation
+  - Decision Making
+  - Coaching Team Members
+
+
+## OGTa/e Team Leader
+
+- Led team members and supported achieving team goals.
+- Managed tasks and followed team progress.
+- Developed:
+  - Leadership
+  - Team Management
+  - Conflict Management
   - Problem Solving
-- Worked in a multicultural environment with different teams.
-
-
----
-
-## 💻 Software Development Experience
-
-- Developed software applications and academic projects.
-- Worked with:
-  - Python
-  - C++
-  - C#
-  - Java
-  - JavaScript
-  - SQL
-- Applied programming concepts and software development practices.
-- Built solutions combining software, AI, and engineering concepts.
 
 
 ---
@@ -172,8 +198,7 @@
 ### Mansoura University
 
 - Completed a software development scholarship program.
-- Studied programming fundamentals and software development concepts.
-- Practiced:
+- Studied:
   - Python
   - C++
   - C#
@@ -185,14 +210,21 @@
   - SQL
   - Microsoft Office Applications
 
+- Improved programming fundamentals through practical projects.
+
 
 ---
 
-## 🏎️ Formula Student Team — L.Y.N.X FRT
+## 🏎️ MURT Formula Student Team
 
-- Participated in engineering projects combining software and hardware.
-- Collaborated with team members on technical challenges.
-- Applied engineering problem-solving and teamwork skills.
+- Participated in **MURT Formula Student Team**.
+- Worked in a technical engineering environment.
+- Collaborated on engineering projects combining software and hardware.
+- Developed skills in:
+  - Team Collaboration
+  - Engineering Problem Solving
+  - Technical Design
+  - Innovation
 
 
 ---
@@ -202,17 +234,20 @@
 
 ## 🧠 Stroke Prediction Using Machine Learning
 
-Medical AI project predicting stroke risk.
+Medical AI classification project predicting stroke risk.
 
-### Technologies:
-Python | Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn
+**Technologies:**
 
-### Highlights:
+Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
+
+**Highlights:**
+
 ✅ Data Cleaning & Preprocessing  
 ✅ Exploratory Data Analysis  
 ✅ Machine Learning Model Comparison  
-✅ Performance Evaluation  
+✅ Model Evaluation  
 ✅ Prediction GUI Application  
+
 
 Models:
 - Logistic Regression
@@ -225,11 +260,11 @@ Models:
 
 ## 📚 Let's Learn Programming Platform
 
-Educational platform designed to help beginners learn programming.
+Educational platform helping beginners learn programming.
 
 Features:
 - Beginner-friendly learning paths.
-- Programming fundamentals explanation.
+- Programming fundamentals.
 - Simple learning experience.
 
 
@@ -237,11 +272,11 @@ Features:
 
 ## 🤖 Arduino & Embedded Projects
 
-Projects include:
+Projects:
 
 🚗 Smart Car  
 🤖 Dancing Robot  
-🥽 VR Game Prototype  
+🥽 VR Game Prototype
 
 
 ---
@@ -259,7 +294,6 @@ Projects include:
 
 # 📊 GitHub Statistics
 
-
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
@@ -273,7 +307,6 @@ Projects include:
 
 # 🔥 GitHub Streak
 
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
@@ -285,7 +318,6 @@ Projects include:
 
 # 🌍 Connect With Me
 
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anasahmedghazi">
@@ -293,7 +325,6 @@ Projects include:
 <img src="https://img.shields.io/badge/LinkedIn-Anas%20Ahmed-blue?style=for-the-badge&logo=linkedin">
 
 </a>
-
 
 <a href="mailto:anasahmedghazi@gmail.com">
 
@@ -308,8 +339,6 @@ Projects include:
 
 <div align="center">
 
-### 🚀 "Code. Learn. Build. Repeat."
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square"/>
+### 🚀 Code. Learn. Build. Repeat.
 
 </div>
