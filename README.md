@@ -1,109 +1,143 @@
+<div align="center">
+
 # Hi, I'm Anas Ahmed Ghazi 👋
 
-🎓 Computer Engineering Student  
-💻 Aspiring Software Engineer  
-🤖 Artificial Intelligence & Machine Learning Enthusiast  
+### Computer Engineering Student | Software Engineer | Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&center=true&vCenter=true&width=600&lines=Software+Engineer;Machine+Learning+Enthusiast;AI+Learner;Always+Learning+New+Technologies"/>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I am a Computer Engineering student passionate about software development, artificial intelligence, and building technology solutions that solve real-world problems.
-
-I believe programming is one of the most powerful tools for creating innovative solutions, and I enjoy transforming ideas into practical projects through coding and engineering.
-
-My main interests include:
-- 💻 Software Engineering
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science
-- 🌐 Web Development
-- 🔌 Embedded Systems & Arduino Projects
-
-I am continuously improving my skills by building projects, exploring new technologies, and applying my knowledge to real-world applications.
+* 🎓 Computer Engineering Student at MUST University.
+* 🤖 Machine Learning Summer Trainee at NTI.
+* 🧠 AI Career Essentials Trainee at ALX.
+* 💻 Aspiring Software Engineer.
+* 🌱 Currently learning Machine Learning, Software Engineering, and System Design.
+* 🔥 Passionate about building impactful software and AI-driven solutions.
+* 📈 Constantly improving my problem-solving and programming skills.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js"/>
 </p>
 
-### Web Development
+### Machine Learning & AI
+
+* Machine Learning
+* Supervised Learning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Model Evaluation
+* Scikit-learn
+
+### Web & Database
 
 <p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,mysql"/>
 </p>
 
-### Machine Learning & Data Science
+### Tools & Technologies
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-
-### Database & Tools
-
-<p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,matlab"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🏆 Experience
 
-### 🧠 Stroke Prediction Using Machine Learning
-- Developed a Machine Learning system to predict stroke risk based on medical and lifestyle features.
-- Performed data preprocessing, analysis, and model evaluation.
-- Compared multiple classification models:
-  - Logistic Regression
-  - K-Nearest Neighbors (KNN)
-  - Support Vector Machine (SVM)
-  - Random Forest
-- Built a GUI application to make predictions easier for users.
+* Machine Learning Summer Trainee – NTI.
+* AI Career Essentials Trainee – ALX.
+* OGTa/e Team Leader – AIESEC in MUST.
+* Software Application Developer (Freelance / Part-Time).
 
-### 🌐 Web Development Projects
-- Created educational and informational websites using HTML, CSS, and JavaScript.
-- Focused on building simple and user-friendly interfaces.
+---
 
-### 🔌 Arduino & Embedded Systems Projects
-- Developed hardware-based projects combining programming and electronics.
-- Explored the connection between software and physical systems.
+## 🚀 Featured Projects
 
-### 📱 Software Applications
-- Worked on different software projects focusing on problem-solving, user experience, and practical applications.
+### Stroke Prediction Using Machine Learning
+
+* Developed and evaluated multiple Machine Learning models.
+* Applied Data Preprocessing and EDA techniques.
+* Compared model performance using Accuracy, Recall, Precision, F1-Score, and ROC-AUC.
+* Built a GUI for real-time predictions.
+
+### Let's Learn Programming Platform
+
+* Interactive programming learning platform.
+* Beginner-friendly learning paths.
+* Clean and intuitive UI design.
+
+### Arduino Projects
+
+* Smart Car.
+* Dancing Robot.
+* VR Game Prototype.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
+
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Machine Learning
-- Artificial Intelligence Applications
-- Software Engineering Practices
-- Data Structures & Algorithms
-- Building Scalable Software Solutions
+* Advanced Machine Learning.
+* Data Structures & Algorithms.
+* Backend Development.
+* Software Engineering Principles.
+* System Design.
 
 ---
 
-## 🎯 Career Goal
+## 🌍 Connect With Me
 
-My goal is to become a Software Engineer who builds impactful technologies by combining software development, artificial intelligence, and engineering principles to create innovative solutions.
-
----
-
-## 📫 Connect With Me
-LinkedIn: www.linkedin.com/in/anasahmedghazi
 <p>
-Phone : 01120444972
+
+<a href="https://www.linkedin.com/in/anasahmedghazi">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:anasahmedghazi@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Code. Learn. Build. Repeat."
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views"/>
+
+</div>
