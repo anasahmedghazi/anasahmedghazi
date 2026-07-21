@@ -1,16 +1,17 @@
 <div align="center">
 
-# Hi, I'm Anas Ahmed Ghazi 👋
+# 👋 Hi, I'm Anas Ahmed Ghazi
 
-### Computer Engineering Student | Software Engineer | Machine Learning Enthusiast
+### 💻 Computer Engineering Student | Software Engineer | Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Machine+Learning+Enthusiast;AI+Solutions+Builder;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=750&lines=Future+Software+Engineer;Machine+Learning+Enthusiast;AI+Solutions+Builder;Computer+Engineering+Student;Always+Learning+New+Technologies"/>
 
 </div>
 
+
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 Computer Engineering Student at **MUST University**
 
@@ -18,10 +19,11 @@
 
 🧠 AI Career Essentials Trainee at **ALX**
 
-💻 Passionate about Software Engineering, Artificial Intelligence, and building real-world applications.
+💻 Aspiring Software Engineer passionate about building intelligent and impactful solutions.
 
 🚀 Interested in:
-- Machine Learning & Artificial Intelligence
+- Artificial Intelligence
+- Machine Learning
 - Software Engineering
 - Backend Development
 - System Design
@@ -56,12 +58,12 @@
 
 </p>
 
-- Data Cleaning & Preprocessing
+- Machine Learning Algorithms
+- Data Analysis & Visualization
+- Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Supervised Learning
 - Model Evaluation
-- Classification Algorithms
 - Scikit-Learn
 
 
@@ -69,7 +71,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 </p>
 
@@ -83,7 +85,7 @@
 </p>
 
 
-## 🔧 Tools
+## 🔧 Tools & Technologies
 
 <p align="center">
 
@@ -97,25 +99,100 @@
 # 🏆 Experience
 
 
-### 🤖 Machine Learning Summer Trainee — NTI
+## 🤖 Machine Learning Trainee  
+### National Telecommunication Institute (NTI)
 
-- Learned Machine Learning fundamentals and workflow.
-- Built ML models using Python and Scikit-Learn.
-- Applied preprocessing, visualization, and evaluation techniques.
-- Developed a complete Machine Learning project.
+- Completed an intensive Machine Learning training focused on practical AI applications.
+- Worked with Python and Scikit-Learn for building ML solutions.
+- Applied:
+  - Data Preprocessing
+  - Exploratory Data Analysis
+  - Feature Engineering
+  - Model Training & Evaluation
+- Implemented Machine Learning algorithms:
+  - Logistic Regression
+  - KNN
+  - SVM
+  - Random Forest
+- Built an end-to-end **Stroke Prediction System**.
+- Developed a GUI application for real-time prediction.
 
 
-### 🧠 AI Career Essentials Trainee — ALX
+---
 
-- Learned AI concepts and practical applications.
-- Improved problem solving and technology awareness.
+## 🧠 AI Career Essentials Trainee  
+### ALX
+
+- Studied Artificial Intelligence fundamentals and real-world applications.
+- Learned how AI can solve practical problems.
+- Improved technical thinking and understanding of emerging AI technologies.
 
 
-### 🌍 OGTa/e Team Leader — AIESEC in MUST
+---
 
-- Led team activities and managed projects.
-- Developed communication and leadership skills.
-- Worked with multicultural teams.
+## 🌍 OGTa/e Team Leader  
+### AIESEC in MUST
+
+- Started my journey as an **IGT (Incoming Global Talent) member**.
+- Progressed to the **B2C (Business to Customer) team**.
+- Worked on connecting students with international internship opportunities.
+- Became an **OGTa/e Team Leader**, leading and supporting team members.
+- Managed team activities and followed performance progress.
+- Developed skills in:
+  - Leadership
+  - Team Management
+  - Communication
+  - Negotiation
+  - Recruitment
+  - Customer Relations
+  - Problem Solving
+- Worked in a multicultural environment with different teams.
+
+
+---
+
+## 💻 Software Development Experience
+
+- Developed software applications and academic projects.
+- Worked with:
+  - Python
+  - C++
+  - C#
+  - Java
+  - JavaScript
+  - SQL
+- Applied programming concepts and software development practices.
+- Built solutions combining software, AI, and engineering concepts.
+
+
+---
+
+## 🎓 Software Development Scholarship Trainee
+
+### Mansoura University
+
+- Completed a software development scholarship program.
+- Studied programming fundamentals and software development concepts.
+- Practiced:
+  - Python
+  - C++
+  - C#
+  - Visual Basic
+  - MATLAB
+  - HTML
+  - Java
+  - JavaScript
+  - SQL
+  - Microsoft Office Applications
+
+
+---
+
+## 🏎️ Formula Student Team — L.Y.N.X FRT
+
+- Participated in engineering projects combining software and hardware.
+- Collaborated with team members on technical challenges.
+- Applied engineering problem-solving and teamwork skills.
 
 
 ---
@@ -125,25 +202,23 @@
 
 ## 🧠 Stroke Prediction Using Machine Learning
 
-Medical AI classification project predicting stroke risk.
+Medical AI project predicting stroke risk.
 
-**Technologies:**
+### Technologies:
 Python | Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn
 
-**Highlights:**
-- Performed Data Analysis and Visualization.
-- Applied multiple ML algorithms:
-  - Logistic Regression
-  - KNN
-  - SVM
-  - Random Forest
-- Compared models using:
-  - Accuracy
-  - Precision
-  - Recall
-  - F1-Score
-  - ROC-AUC
-- Built GUI application for prediction.
+### Highlights:
+✅ Data Cleaning & Preprocessing  
+✅ Exploratory Data Analysis  
+✅ Machine Learning Model Comparison  
+✅ Performance Evaluation  
+✅ Prediction GUI Application  
+
+Models:
+- Logistic Regression
+- KNN
+- SVM
+- Random Forest
 
 
 ---
@@ -153,25 +228,37 @@ Python | Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn
 Educational platform designed to help beginners learn programming.
 
 Features:
-- Simple learning path.
-- Beginner-friendly explanations.
-- Interactive content.
+- Beginner-friendly learning paths.
+- Programming fundamentals explanation.
+- Simple learning experience.
 
 
 ---
 
 ## 🤖 Arduino & Embedded Projects
 
-Projects involving hardware and programming:
+Projects include:
 
-- Smart Car
-- Dancing Robot
-- VR Game Prototype
+🚗 Smart Car  
+🤖 Dancing Robot  
+🥽 VR Game Prototype  
 
 
 ---
 
-# 📈 GitHub Analytics
+# 📚 Currently Learning
+
+- Advanced Machine Learning
+- Backend Development
+- Data Structures & Algorithms
+- System Design
+- Software Engineering Principles
+
+
+---
+
+# 📊 GitHub Statistics
+
 
 <div align="center">
 
@@ -184,7 +271,8 @@ Projects involving hardware and programming:
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
+
 
 <div align="center">
 
@@ -195,42 +283,32 @@ Projects involving hardware and programming:
 
 ---
 
-# 📚 Currently Learning
-
-🚀 Advanced Machine Learning
-
-🚀 Backend Development
-
-🚀 Data Structures & Algorithms
-
-🚀 Software Engineering Practices
-
-🚀 System Design
-
-
----
-
 # 🌍 Connect With Me
 
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/anasahmedghazi">
+<a href="https://www.linkedin.com/in/anasahmedghazi">
+
 <img src="https://img.shields.io/badge/LinkedIn-Anas%20Ahmed-blue?style=for-the-badge&logo=linkedin">
+
 </a>
+
 
 <a href="mailto:anasahmedghazi@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+
 </a>
 
-</p>
+</div>
 
 
 ---
 
 <div align="center">
 
-### "Code. Learn. Build. Repeat."
+### 🚀 "Code. Learn. Build. Repeat."
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square"/>
 
